@@ -1,7 +1,7 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Maze Escape] 🎯
+# Maze Escape 🎯
 
 
 ## Basic Details
@@ -70,7 +70,7 @@ useless/
 
 ### Project Demo
 # Video
-
+Recording 2025-08-09 045644.mp4
 *So when we pree the button, we enter the maze escape game. then be play the game. we press space bar to make the path visible. At the end a score is shown and also restart button*
 
 
