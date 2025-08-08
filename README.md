@@ -70,7 +70,7 @@ useless/
 
 ### Project Demo
 # Video
-
+https://github.com/DevikaPC2003/Maze-Escape/blob/main/Recording%202025-08-09%20045644.mp4
 *So when we pree the button, we enter the maze escape game. then be play the game. we press space bar to make the path visible. At the end a score is shown and also restart button*
 
 
