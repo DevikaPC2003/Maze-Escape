@@ -4,7 +4,7 @@
 # Maze Escape 🎯
 
 
-## Basic Details
+## My game is a Maze Escape challenge where players navigate through a maze, racing against time to reach the goal while scoring points.
 ### Team Name: Devika Chettayil's Team
 
 
